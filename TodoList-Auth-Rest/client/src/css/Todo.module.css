@@ -1,0 +1,30 @@
+.card {
+    width: 280px;
+    height: 200px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-shadow: 4px 4px 10px grey;
+}
+.todoComponents{
+    width: 90%;
+    height: 40px;
+    padding: 5px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom: 2%;
+}
+.btn {
+    height  : 30px;
+    width: 40px;
+    text-align: center;
+    border: none;
+    border-radius: 3px;
+}

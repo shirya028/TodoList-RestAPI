@@ -1,0 +1,35 @@
+.mycard {
+    width: 30%;
+    height: 450px;
+    background-color: #FBFBFB;
+    border-radius: 10px;
+    border: green ridge;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.input{
+    display: block;
+    width: 70%;
+    margin: 0px auto;
+    margin-top: 20px;
+    height: 50px;
+}
+
+.loginIcons {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.i {
+    cursor: pointer;
+    font-size: 15px;
+}
+.loginAnchors{
+    margin-top: 40px;
+    display: flex;
+    font-size: 13px;
+    justify-content: space-evenly;
+}

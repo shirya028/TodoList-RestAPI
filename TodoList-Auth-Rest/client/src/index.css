@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-color: #F7F7F7;
+}
+
+input {
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+
+}

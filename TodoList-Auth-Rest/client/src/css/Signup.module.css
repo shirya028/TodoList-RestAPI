@@ -1,0 +1,13 @@
+.my-div {
+    height: 100vh;
+    background-color: beige;
+}
+.img {
+    width : 200px;
+    height: 200px;
+}
+.card {
+    height: 50%;
+    width: 45%;
+    margin: 0 auto;
+}
